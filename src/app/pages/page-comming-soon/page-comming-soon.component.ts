@@ -59,11 +59,9 @@ export class PageCommingSoonComponent {
     }
 
     try {
-      const pdfBase64 = await this.getBase64('/pdf/fiche-adhesion-femahol.pdf');
 
       const templateParams = {
         user_email: this.email(),
-        attachment: pdfBase64 
       };
 
       await emailjs.send(
