@@ -17,5 +17,5 @@ import { FooterComponent } from './core/components/footer/footer.component';
 })
 
 export class AppComponent {
-  title = 'angular-starter-v19';
+  title = 'fe-mahol-public';
 }

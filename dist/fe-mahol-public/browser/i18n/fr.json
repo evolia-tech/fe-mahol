@@ -1,0 +1,31 @@
+{
+  "header": {
+    "fr": "Français",
+    "bas": "Ɓasaa"
+  },
+
+  "comingSoon": {
+    "soon": "BIENTÔT",
+
+    "emailPlaceholder": "Saisissez votre adresse e-mail*",
+    "join": "Rejoindre",
+
+    "aboutTitle": "À bientôt",
+
+    "aboutText": "Nous préparons quelque chose de spécial pour nos membres.",
+
+    "contactTitle": "Restez en contact",
+
+    "address": "44 rue d’Amsterdam, 75009 Paris, France",
+
+    "contactInfo": "E-mail : info@femahol.com / Tel : +33 (0)7 58 01 73 57"
+  },
+
+  "footer": {
+    "legal": "Mentions légales",
+    "cookies": "Politique en matière de cookies",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "copyright": "© 2026 FEMAHÔL."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "header": {
+    "fr": "Pùlàsi",
+    "bas": "Ɓasaa"
+  },
+
+  "comingSoon": {
+    "soon": "Ndèk ŋgèdà",
+
+    "emailPlaceholder": "Hinɓɛ̀nɛ̀ ŋwìn u ndɛ̂s*",
+    "join": "Adnà",
+
+    "aboutTitle": "Ndèk ŋgèdà",
+
+    "aboutText": "Di yé ɓòŋhà ŋgìm jàm li ga nlēmel bot.",
+
+    "contactTitle": "Yeglɛ̀nɛ̀ ɓɔ̀gnɛ",
+
+    "address": "44 rue d’Amsterdam, 75009 Paris, France",
+
+    "contactInfo": "E-mail : info@femahol.com / Tel : +33 (0)7 58 01 73 57"
+  },
+
+  "footer": {
+    "legal": "Lìɓɔŋga i mbūs mànoglà",
+    "cookies": "Pèk i mbòk",
+    "privacy": "Pèk i ǹsɔ̀lɓɛ",
+    "terms": "Ńluga lìkòs",
+    "copyright": "© 2026 FEMAHÔL."
+  }
+}
