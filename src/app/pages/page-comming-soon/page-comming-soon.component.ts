@@ -41,10 +41,10 @@ export class PageCommingSoonComponent {
   email = signal<string>('');
 
   images: CarouselImage[] = [
-    { src: '/images/coming-soon/ngog-litouba.jpeg', alt: 'Slide 1' },
-    { src: '/images/coming-soon/plaine-arbres.jpeg', alt: 'Slide 2' },
-    { src: '/images/coming-soon/sans-baobab.jpeg', alt: 'Slide 3' },
-    { src: '/images/coming-soon/baobab.jpeg', alt: 'Slide 4' }
+    { src: '/images/coming-soon/ngog-litouba.webp', alt: 'Slide 1' },
+    { src: '/images/coming-soon/plaine-arbres.webp', alt: 'Slide 2' },
+    { src: '/images/coming-soon/sans-baobab.webp', alt: 'Slide 3' },
+    { src: '/images/coming-soon/baobab.webp', alt: 'Slide 4' }
   ];
 
   setLang(lang: Lang) {

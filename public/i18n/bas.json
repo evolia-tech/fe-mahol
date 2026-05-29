@@ -1,13 +1,13 @@
 {
   "header": {
     "fr": "Pùlàsi",
-    "bas": "Ɓasaa"
+    "bas": "Ɓàsà'a"
   },
 
   "comingSoon": {
     "soon": "Ndèk ŋgèdà",
 
-    "emailPlaceholder": "Hinɓɛ̀nɛ̀ ŋwìn u ndɛ̂s*",
+    "emailPlaceholder": "Hinɓɛ̀nɛ̀ ŋwìn u ndɛ̂s",
     "join": "Adnà",
 
     "aboutTitle": "Ndèk ŋgèdà",
@@ -26,6 +26,6 @@
     "cookies": "Pèk i mbòk",
     "privacy": "Pèk i ǹsɔ̀lɓɛ",
     "terms": "Ńluga lìkòs",
-    "copyright": "© 2026 FEMAHÔL."
+    "copyright": "© 2026 FEMÂHÔL."
   }
 }
